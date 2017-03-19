@@ -12,3 +12,7 @@
 - [okhttp](http://square.github.io/okhttp/)
 - 异步处理机制
 [Android学习整理 -11 -异步处理机制](http://www.jianshu.com/p/53d6019bd531)
+-------
+参考自郭霖《第一行代码》
+-------
+敏敏啊呀
