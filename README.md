@@ -1,4 +1,11 @@
 # DownLoadService
+
+
+---
+[Android学习整理 - 系列](http://www.jianshu.com/p/05583388aca2)
+
+---
+
 2 - Android异步机制后台下载实例
 
 下载一个大文件
